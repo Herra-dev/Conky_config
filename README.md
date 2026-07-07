@@ -5,7 +5,7 @@
 ![conky_preview](https://github.com/Herra-dev/Herra-dev-applications-pics/blob/main/conky/archlinux.png)
 
 ## How to use it
-### 1- Install [conky](https://github.com/brndnmtthws/conky) for linux (all command must be root privileges)
+### 1- Install [conky](https://github.com/brndnmtthws/conky) for linux (all command must be run with root privileges)
 #### Debian / Debian based:
     apt-get install conky
 #### ArchLinux / Arch based:
